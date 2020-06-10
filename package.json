@@ -1,6 +1,6 @@
 {
-  "name": "kea",
-  "version": "2.0.0",
+  "name": "@commanddot/kea",
+  "version": "2.0.1",
   "description": "Smart front-end architecture",
   "author": "Marius Andra",
   "license": "MIT",
@@ -8,12 +8,12 @@
   "esnext": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/keajs/kea.git"
+    "url": "git+https://github.com/commanddot/kea.git"
   },
   "bugs": {
-    "url": "https://github.com/keajs/kea/issues"
+    "url": "https://github.com/commanddot/kea/issues"
   },
-  "homepage": "https://github.com/keajs/kea#readme",
+  "homepage": "https://github.com/commanddot/kea#readme",
   "size-limit": [
     {
       "path": "lib/index.js",
